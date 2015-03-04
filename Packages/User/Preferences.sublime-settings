@@ -1,0 +1,21 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python"
+		}
+	],
+	"color_scheme": "Packages/User/Monokai Bright (Flake8Lint).tmTheme",
+	"env":
+	{
+		"PYTHONPATH": "/home/hwang0/co/esm_recon/lib"
+	},
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
+}
