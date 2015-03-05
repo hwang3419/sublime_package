@@ -6,7 +6,7 @@
 			"selector": "source.python"
 		}
 	],
-	"color_scheme": "Packages/User/Monokai Bright (Flake8Lint).tmTheme",
+	"color_scheme": "Packages/User/base16-ocean.dark (Flake8Lint).tmTheme",
 	"env":
 	{
 		"PYTHONPATH": "/home/hwang0/co/esm_recon/lib"
