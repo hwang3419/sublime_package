@@ -43,969 +43,12 @@
 		"/home/hwang0/co/urlreports/webapp"
 	],
 	"last_version": 3065,
-	"last_window_id": 112,
+	"last_window_id": 113,
 	"log_indexing": false,
 	"settings":
 	{
 		"new_window_height": 0.0,
 		"new_window_settings":
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"p",
-						"pluginInit	function"
-					],
-					[
-						"co",
-						"continue"
-					],
-					[
-						"c",
-						"continue"
-					],
-					[
-						"sta",
-						"start_dict"
-					],
-					[
-						"st",
-						"start_dict"
-					],
-					[
-						"fo",
-						"found_dict"
-					],
-					[
-						"exce",
-						"exception"
-					],
-					[
-						"cp",
-						"cpu_times"
-					],
-					[
-						"cn",
-						"continue"
-					],
-					[
-						"_get",
-						"_get_pids"
-					],
-					[
-						"V",
-						"VmRSS"
-					],
-					[
-						"Vm",
-						"VmRSS"
-					],
-					[
-						"se",
-						"searchRange"
-					],
-					[
-						"mi",
-						"min_point"
-					],
-					[
-						"m",
-						"min_point"
-					],
-					[
-						"di",
-						"dividend"
-					],
-					[
-						"d",
-						"dividend"
-					],
-					[
-						"div",
-						"divisor"
-					],
-					[
-						"re",
-						"result"
-					],
-					[
-						"t",
-						"temp"
-					],
-					[
-						"i",
-						"item"
-					],
-					[
-						"in",
-						"index"
-					],
-					[
-						"a",
-						"append"
-					],
-					[
-						"pr",
-						"prices"
-					],
-					[
-						"res",
-						"response"
-					],
-					[
-						"Tes",
-						"TestCase"
-					],
-					[
-						"TEM",
-						"TEMPLATE_DEBUG"
-					],
-					[
-						"if",
-						"ifmain	if __name__ == '__main__'"
-					],
-					[
-						"mock_r",
-						"mock_result"
-					],
-					[
-						"as",
-						"assertEqual"
-					],
-					[
-						"mo",
-						"mock_request"
-					],
-					[
-						"Te",
-						"TestCase"
-					],
-					[
-						"colu",
-						"columnWrap"
-					],
-					[
-						"u",
-						"until_ts"
-					],
-					[
-						"tim",
-						"time_stamp"
-					],
-					[
-						"from",
-						"from_ts"
-					],
-					[
-						"un",
-						"until_ts"
-					],
-					[
-						"k",
-						"kwargs_export"
-					],
-					[
-						"boa",
-						"board_name"
-					],
-					[
-						"mg",
-						"mgrApply"
-					],
-					[
-						"sp",
-						"split"
-					],
-					[
-						"this",
-						"thisGallery"
-					],
-					[
-						"conten",
-						"content_type"
-					],
-					[
-						"aja",
-						"ajax_opt"
-					],
-					[
-						"con",
-						"context"
-					],
-					[
-						"js",
-						"jsonp"
-					],
-					[
-						"return",
-						"return_list"
-					],
-					[
-						"retr",
-						"return_dict"
-					],
-					[
-						"date",
-						"date_obj"
-					],
-					[
-						"chi",
-						"childNodes"
-					],
-					[
-						"ser",
-						"seriesdata"
-					],
-					[
-						"rend",
-						"render_graph"
-					],
-					[
-						"sea",
-						"searchForm"
-					],
-					[
-						"search_",
-						"search_splunk"
-					],
-					[
-						"log",
-						"login_splunk"
-					],
-					[
-						"sc",
-						"scope"
-					],
-					[
-						"get",
-						"get_random"
-					],
-					[
-						"ke",
-						"keys"
-					],
-					[
-						"id",
-						"idList"
-					],
-					[
-						"vcen",
-						"vcenter401p"
-					],
-					[
-						"glo",
-						"globalTimeRangeInURL"
-					],
-					[
-						"me",
-						"metric_path"
-					],
-					[
-						"path",
-						"path_base"
-					],
-					[
-						"host",
-						"hostKey"
-					],
-					[
-						"hos",
-						"hostKey"
-					],
-					[
-						"na",
-						"nameAndID"
-					],
-					[
-						"v",
-						"vcenterhost"
-					],
-					[
-						"lo",
-						"login_window"
-					],
-					[
-						"au",
-						"authenticationFailed"
-					],
-					[
-						"G",
-						"GCH3"
-					],
-					[
-						"gra",
-						"graphite_in_use"
-					],
-					[
-						"vali",
-						"validate_detail"
-					],
-					[
-						"er",
-						"error_type"
-					],
-					[
-						"va",
-						"validate_html"
-					],
-					[
-						"pat",
-						"path_removed"
-					],
-					[
-						"ma",
-						"matchObj"
-					],
-					[
-						"cre",
-						"create_window"
-					],
-					[
-						"fa",
-						"failure"
-					],
-					[
-						"boardC",
-						"boardContextName"
-					],
-					[
-						"boardConte",
-						"boardContextName"
-					],
-					[
-						"aj",
-						"Ajax"
-					],
-					[
-						"eval",
-						"eval_context"
-					],
-					[
-						"boardCo",
-						"boardContextName"
-					],
-					[
-						"ta",
-						"target"
-					],
-					[
-						"wid",
-						"widget_type"
-					],
-					[
-						"tar",
-						"target"
-					],
-					[
-						"wi",
-						"widget_type"
-					],
-					[
-						"w",
-						"widgets"
-					],
-					[
-						"sho",
-						"show_results"
-					],
-					[
-						"val",
-						"val_timeout"
-					],
-					[
-						"jq",
-						"jqXHR"
-					],
-					[
-						"url",
-						"urlobj"
-					],
-					[
-						"par",
-						"paramObj"
-					],
-					[
-						"j",
-						"jdata"
-					],
-					[
-						"aiml",
-						"aimlv2"
-					],
-					[
-						"aim",
-						"aimllist"
-					],
-					[
-						"patt",
-						"PatternMgr"
-					],
-					[
-						"_",
-						"_brain"
-					],
-					[
-						"K",
-						"KeyErr"
-					],
-					[
-						"send",
-						"send_dict_result"
-					],
-					[
-						"CO",
-						"COMMANDS"
-					],
-					[
-						"clo",
-						"close_connection"
-					],
-					[
-						"my",
-						"my_metric_store"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"interval_",
-						"interval_manager"
-					],
-					[
-						"UR",
-						"URL_QUERY_PARAMS"
-					],
-					[
-						"si",
-						"since_last_update"
-					],
-					[
-						"task",
-						"taskRunTime"
-					],
-					[
-						"tas",
-						"tasks"
-					],
-					[
-						"v1",
-						"v1_api"
-					],
-					[
-						"rows",
-						"ROWS"
-					],
-					[
-						"en",
-						"encode"
-					],
-					[
-						"du",
-						"dump_json"
-					],
-					[
-						"sa",
-						"startswith"
-					],
-					[
-						"C",
-						"CURRENT_IN_HTML"
-					],
-					[
-						"he",
-						"head_list"
-					],
-					[
-						"H",
-						"HtmlData"
-					],
-					[
-						"T",
-						"TABLE_FOUND"
-					],
-					[
-						"cur",
-						"current_country"
-					],
-					[
-						"fou",
-						"foundtable"
-					],
-					[
-						"load",
-						"load_data"
-					],
-					[
-						"maxa",
-						"maxa"
-					],
-					[
-						"max",
-						"maxkey"
-					],
-					[
-						"r",
-						"reg"
-					],
-					[
-						"len",
-						"length"
-					],
-					[
-						"ad",
-						"advancedtext"
-					],
-					[
-						"ev",
-						"evaluate_alarm"
-					],
-					[
-						"ala",
-						"alarm"
-					]
-				]
-			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 117.0,
-				"selected_items":
-				[
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Remove Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: in",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: s",
-						"Package Control: Discover Packages"
-					]
-				],
-				"width": 593.0
-			},
-			"console":
-			{
-				"height": 444.0,
-				"history":
-				[
-					"print a",
-					"a=1",
-					"ls",
-					"print \"a\"",
-					"print 1",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"LANG=en_US.UTF-8 sublime_text",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/zetalogs.py",
-				"/home/hwang0/.config/sublime-text-3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
-				"/home/hwang0/.config/sublime-text-3/Packages/Python Flake8 Lint/Default (Linux).sublime-keymap",
-				"/home/hwang0/.config/sublime-text-3/Packages/User/Flake8Lint.sublime-settings",
-				"/home/hwang0/co/esm_recon/bin/send-recon-event",
-				"/home/hwang0/.config/sublime-text-3/Packages/User/SublimeSimpleSync.sublime-settings",
-				"/home/hwang0/co/recon.sublime-project",
-				"/home/hwang0/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/hwang0/.config/sublime-text-3/Packages/Jedi - Python autocompletion/Default.sublime-mousemap",
-				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/jmx.py",
-				"/home/hwang0/.config/sublime-text-3/Packages/User/sublime_jedi.sublime-settings",
-				"/home/hwang0/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/hwang0/.config/sublime-text-3/Packages/User/sftp_servers/test",
-				"/home/hwang0/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
-				"/home/hwang0/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
-				"/home/hwang0/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
-				"/home/hwang0/.config/sublime-text-3/Packages/Trimmer/Default (Linux).sublime-keymap",
-				"/home/hwang0/co/esm_recon/init-script.sh",
-				"/home/hwang0/co/esm_recon/corp-sys/lib/python2.6/config/install-sh",
-				"/home/hwang0/.config/sublime-text-3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
-				"/home/hwang0/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
-				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/minDistance.py",
-				"/home/hwang0/co/esm_recon/.bash_aliases",
-				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/minWindow.py",
-				"/home/hwang0/.config/sublime-text-3/Packages/Pylinter/Default (Linux).sublime-keymap",
-				"/home/hwang0/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
-				"/home/hwang0/.config/sublime-text-3/Packages/User/sftp_servers/config",
-				"/home/hwang0/.config/sublime-text-3/Packages/User/SFTP.sublime-settings",
-				"/home/hwang0/co/esm_recon/jmxd/lib/jmx/jboss.py",
-				"/home/hwang0/.config/sublime-text-3/Packages/SFTP/SFTP.sublime-settings",
-				"/home/hwang0/co/esm_recon/lib/recon/agent/commonMbeanMetrics.py",
-				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/javastandalone.py",
-				"/home/hwang0/co/plugins/zetalogs.py",
-				"/home/hwang0/co/plugins/genericPlugin.py",
-				"/home/hwang0/co/plugins/jboss.py",
-				"/home/hwang0/co/git/graphite-web/webapp/graphite/urls.py",
-				"/home/hwang0/co/git/graphite-web/webapp/graphite/settings.py",
-				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/solr.py",
-				"/home/hwang0/co/newrecon/esm_recon/lib/recon/common/counterStats.py",
-				"/tmp/test.py",
-				"/tmp/hello.py",
-				"/home/hwang0/co/plugins/solr.py",
-				"/home/hwang0/co/plugins/javastandalone.py",
-				"/home/hwang0/Documents/workspace/leetcode/sudoku.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/urls.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/users/authBackend.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/tickets/jiraclient.py",
-				"/home/hwang0/Documents/workspace/leetcode/gas_station.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/views.py",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/graphGallery-dyn.js",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/settings.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/validator.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/splunkSearch.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/tests/tests.py",
-				"/home/hwang0/Documents/workspace/leetcode/singlenumber2.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/tests/splunkTests.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/alarms/opennms.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/local_settings.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/tests/models.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/tests2/__init__.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/tests.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/users/urls.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/urls.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/test.py",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/graphGallery-dyn-jqChart.js",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/graphGallery.js",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/graphGallery-manage.js",
-				"/home/hwang0/Desktop/Main.java",
-				"/home/hwang0/.config/sublime-text-3/Packages/Javatar/Default (Linux).sublime-keymap",
-				"/home/hwang0/.config/sublime-text-3/Packages/Javatar/Javatar.sublime-settings",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/graphGallery-state.js",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/users/models.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/views.py",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/context.js",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/util.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/splunk_search.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/templates/test.html",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/demo/demo.js",
-				"/home/hwang0/.config/sublime-text-3/Packages/Shell Turtlestein/Shell Turtlestein.sublime-settings",
-				"/home/hwang0/.config/sublime-text-3/Packages/Shell Command/Default.sublime-keymap",
-				"/home/hwang0/.config/sublime-text-3/Packages/Shell Command/ShellCommand.sublime-settings",
-				"/home/hwang0/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/hwang0/.config/sublime-text-3/Packages/User/Pylinter.sublime-settings",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/urls.py",
-				"/home/hwang0/.config/sublime-text-3/Packages/User/JsFormat.sublime-settings",
-				"/home/hwang0/.config/sublime-text-3/Packages/JsFormat/JsFormat.sublime-settings",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/templates/viewBoard.html",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/bower_components/angular-latest/angularFiles.js",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/bower_components/angular-latest/jenkins_build.sh",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/bower_components/angular-latest/src/AngularPublic.js",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/bower_components/angular-latest/src/Angular.js",
-				"/home/hwang0/Desktop/test.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/templatetags/__init__.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/templatetags/verbatim.py",
-				"/home/hwang0/co/plugins/nfsstats.py",
-				"/home/hwang0/splunk/bower_components/splunk-sdk-javascript/examples/browser/helloworld/index.html",
-				"/home/hwang0/splunk/bower_components/jquery/src/jquery.js",
-				"/home/hwang0/splunk/bower_components/splunk-sdk-javascript/examples/browser/index.html",
-				"/home/hwang0/splunk/test.html",
-				"/home/hwang0/Documents/workspace/vm/log/vmware-monitoring.log",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/alarmConsole.js",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/base.js",
-				"/home/hwang0/co/graphite-extjs4/webapp/graphite/render/functions.py",
-				"/home/hwang0/co/git/hwang3419.github.io/test.js",
-				"/home/hwang0/co/git/hwang3419.github.io/bower_components/d3/d3.js",
-				"/home/hwang0/Documents/workspace/d3/index.html",
-				"/home/hwang0/Desktop/curlmon.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/users/views.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/users/templates/login.html",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/widgets/views.py",
-				"/home/hwang0/Documents/workspace/sendEmail.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/widgets/urls.py",
-				"/home/hwang0/co/dash-extjs4/compiler_all.sh",
-				"/home/hwang0/Documents/workspace/vmware_collect.py",
-				"/home/hwang0/Documents/workspace/vm_collect_pysphere.py",
-				"/home/hwang0/Documents/workspace/vhost_collect.py",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/graphViewer.js",
-				"/home/hwang0/co/dash-extjs4/webapp/manage.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/models.py",
-				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/blinkenLights.js",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/alarms/views.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/templates/base/base.html",
-				"/home/hwang0/Desktop/test.js",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/contexts/models.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/action/urls.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/alarms/urls.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/contexts/urls.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/metrics/urls.py"
-			],
-			"find":
-			{
-				"height": 35.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					"/home/hwang0/co/esm_recon",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/js",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/bower_components/angular-latest",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/utils",
-					"/home/hwang0/co/dash-extjs4/webapp/dash/boards/templates",
-					"/home/hwang0/co/dash-extjs4/webapp/dash",
-					"/home/hwang0/co/dash-extjs4/webapp/dash/boards",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/js",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/js",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content",
-					"/home/hwang0/co/dash-extjs4/webapp",
-					"/home/hwang0/co/git/test/graphite-web/webapp/graphite/templates",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content",
-					"/home/hwang0/co/dash-extjs4/webapp",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets",
-					"/home/hwang0/co/jmxd",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/js",
-					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"env",
-					"sanitized",
-					"get_mbean_attrs",
-					"mbeanAttrs",
-					"traceback",
-					"getMBeanInfo",
-					"jmx_call",
-					"attributes",
-					"solr",
-					"collectGenericBeans",
-					"genericm",
-					"collectSolrSearch1Beans",
-					"parseXmlFile",
-					"jmxd",
-					"jboss8",
-					"jboss89",
-					"getAttribute('port",
-					"getAttribute",
-					"jmxd7",
-					"jmxd8",
-					"jboss7",
-					"parseJBoss8OffsetXml",
-					"custom",
-					"linesRead",
-					"linesReadPerSec",
-					"pluginStats",
-					"linesRead",
-					"processLogLine",
-					"lo",
-					"95",
-					"search",
-					"self",
-					"console",
-					"targets_field",
-					"graphsStore",
-					"join",
-					"graphsstore",
-					"state",
-					"widget_type",
-					"INSTALLED_APPS",
-					"PASSWORD_HASHERS",
-					"alarms",
-					"edit",
-					"replace",
-					"genParamObj",
-					"record",
-					"asdf",
-					"console.log",
-					"replace",
-					"100",
-					"edit",
-					"change",
-					"updateGraphs",
-					"refresh",
-					"deljsc",
-					"delJSChart",
-					"reload",
-					"genParamObj",
-					"loadJSChart",
-					"loadjsdata",
-					"mgrApply",
-					"e",
-					"mgrApply",
-					"save",
-					"GraphFields",
-					"graphsstore",
-					"genparamobj",
-					"graphsStore",
-					"GraphFields",
-					"editor",
-					"editContext",
-					"graphsStore",
-					"APIMethods",
-					"issplunk",
-					"splunk",
-					"genUrlFromParamObj",
-					"getJson",
-					"addData",
-					"gflag",
-					"indent",
-					"           \n",
-					"()\n",
-					"angular.min",
-					"render",
-					"name",
-					"discovery",
-					"loadstate",
-					"globalTimeRange",
-					"globalTimeRangeWin",
-					"globalTimeRange",
-					"url",
-					"GraphiteTimerange",
-					"setRelativeTimerange",
-					"getTimerange",
-					"graphiteTimerange",
-					"date2GDate",
-					"absFrom",
-					"globaltimera",
-					"GraphiteTimerange",
-					"-web",
-					"vsp",
-					"vsp_cache",
-					"SOLR_CLIENT_RE",
-					"HDS",
-					"d3_documentElement",
-					"querySelector",
-					"d3_select",
-					"select(",
-					"select",
-					"RequestContext",
-					"render_to_response",
-					" ><",
-					"parse_state",
-					"connected",
-					"Cookie",
-					"getOptionsArgs",
-					"command",
-					"mute",
-					"mutebutton",
-					"login",
-					"error",
-					"is_auth",
-					"defaultDashUser",
-					"widget",
-					"update",
-					"do not own this",
-					"own this dash",
-					"own this dashb"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"mbean_attrs",
-					"django.conf.urls",
-					"NEW_INTERVAL",
-					"",
-					";",
-					"processonly"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 23.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 231.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.sftp":
-			{
-				"height": 100.0
-			},
-			"replace":
-			{
-				"height": 64.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": false,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 230.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 0.0
-	},
-	"windows":
-	[
 		{
 			"auto_complete":
 			{
@@ -1525,20 +568,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"contents": "class Solution:\n    # @param A, a list of integers\n    # @param target, an integer to be searched\n    # @return an integer\n    def search(self, A, target):\n        \n        \n        f = self.find(A)\n        A = A[f+1]\n        #print A\n        left = A[0]\n        l = 0\n        r = len(A)-1\n        p = r/2\n        c = 0\n        f = None\n        c=0\n        while True:\n            #print l,r,p\n            if l==r or abs(l-r)==1:\n                print l,r\n                if A[l]==target or A[r]==target:\n                    return True\n                break\n            if A[p] > target:\n                r =p\n                p = (l+p)/2\n            elif A[p] < target:\n                l = p\n                p = (p+r)/2\n            elif A[p]==target:\n                return True\n            c+=1\n            if c>10:break\n        return False\n\n    def find(self,A):\n        left = A[0]\n        l = 0\n        r = len(A)-1\n        p = r/2\n        c = 0\n        f = -1\n        while True:\n            if l==r or abs(l-r)==1:\n                if A[r]>A[l]:\n                    break\n                else:\n                    f = p\n                break\n            if A[p] > A[l]:\n                l =p\n                p = (r+p)/2\n            elif A[p] < A[l]:\n                r = p\n                p = (l+r)/2\n\n        return f\n\n\ns = Solution()\nprint s.search([1,2,3,4,5,6,7,8,0],1)",
-					"file": "/home/hwang0/Documents/workspace/leetcode/test.py",
-					"file_size": 1358,
-					"file_write_time": 130700455738454296,
-					"settings":
-					{
-						"buffer_size": 1377,
-						"line_ending": "Unix"
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
@@ -1596,12 +625,9 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/home/hwang0/Documents/workspace/leetcode"
-			],
 			"file_history":
 			[
+				"/home/hwang0/Documents/workspace/leetcode/test.py",
 				"/home/hwang0/.config/sublime-text-3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
 				"/home/hwang0/.config/sublime-text-3/Packages/Python Flake8 Lint/Default (Linux).sublime-keymap",
 				"/home/hwang0/.config/sublime-text-3/Packages/User/Flake8Lint.sublime-settings",
@@ -1728,8 +754,7 @@
 				"/home/hwang0/co/dash-extjs4/webapp/dash/contexts/models.py",
 				"/home/hwang0/co/dash-extjs4/webapp/dash/action/urls.py",
 				"/home/hwang0/co/dash-extjs4/webapp/dash/alarms/urls.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/contexts/urls.py",
-				"/home/hwang0/co/dash-extjs4/webapp/dash/metrics/urls.py"
+				"/home/hwang0/co/dash-extjs4/webapp/dash/contexts/urls.py"
 			],
 			"find":
 			{
@@ -1769,6 +794,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"1",
 					"env",
 					"sanitized",
 					"get_mbean_attrs",
@@ -1895,8 +921,996 @@
 					"widget",
 					"update",
 					"do not own this",
-					"own this dash",
-					"own this dashb"
+					"own this dash"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"mbean_attrs",
+					"django.conf.urls",
+					"NEW_INTERVAL",
+					"",
+					";",
+					"processonly"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 231.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 100.0
+			},
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 230.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fi",
+						"finally	keyword"
+					],
+					[
+						"pa",
+						"pattern	statement"
+					],
+					[
+						"J",
+						"JBOSS_CONFIG	statement"
+					],
+					[
+						"f",
+						"f	statement"
+					],
+					[
+						"p",
+						"pluginInit	function"
+					],
+					[
+						"co",
+						"continue"
+					],
+					[
+						"c",
+						"continue"
+					],
+					[
+						"sta",
+						"start_dict"
+					],
+					[
+						"st",
+						"start_dict"
+					],
+					[
+						"fo",
+						"found_dict"
+					],
+					[
+						"exce",
+						"exception"
+					],
+					[
+						"cp",
+						"cpu_times"
+					],
+					[
+						"cn",
+						"continue"
+					],
+					[
+						"_get",
+						"_get_pids"
+					],
+					[
+						"V",
+						"VmRSS"
+					],
+					[
+						"Vm",
+						"VmRSS"
+					],
+					[
+						"se",
+						"searchRange"
+					],
+					[
+						"mi",
+						"min_point"
+					],
+					[
+						"m",
+						"min_point"
+					],
+					[
+						"di",
+						"dividend"
+					],
+					[
+						"d",
+						"dividend"
+					],
+					[
+						"div",
+						"divisor"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"t",
+						"temp"
+					],
+					[
+						"i",
+						"item"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"a",
+						"append"
+					],
+					[
+						"pr",
+						"prices"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"Tes",
+						"TestCase"
+					],
+					[
+						"TEM",
+						"TEMPLATE_DEBUG"
+					],
+					[
+						"if",
+						"ifmain	if __name__ == '__main__'"
+					],
+					[
+						"mock_r",
+						"mock_result"
+					],
+					[
+						"as",
+						"assertEqual"
+					],
+					[
+						"mo",
+						"mock_request"
+					],
+					[
+						"Te",
+						"TestCase"
+					],
+					[
+						"colu",
+						"columnWrap"
+					],
+					[
+						"u",
+						"until_ts"
+					],
+					[
+						"tim",
+						"time_stamp"
+					],
+					[
+						"from",
+						"from_ts"
+					],
+					[
+						"un",
+						"until_ts"
+					],
+					[
+						"k",
+						"kwargs_export"
+					],
+					[
+						"boa",
+						"board_name"
+					],
+					[
+						"mg",
+						"mgrApply"
+					],
+					[
+						"sp",
+						"split"
+					],
+					[
+						"this",
+						"thisGallery"
+					],
+					[
+						"conten",
+						"content_type"
+					],
+					[
+						"aja",
+						"ajax_opt"
+					],
+					[
+						"con",
+						"context"
+					],
+					[
+						"js",
+						"jsonp"
+					],
+					[
+						"return",
+						"return_list"
+					],
+					[
+						"retr",
+						"return_dict"
+					],
+					[
+						"date",
+						"date_obj"
+					],
+					[
+						"chi",
+						"childNodes"
+					],
+					[
+						"ser",
+						"seriesdata"
+					],
+					[
+						"rend",
+						"render_graph"
+					],
+					[
+						"sea",
+						"searchForm"
+					],
+					[
+						"search_",
+						"search_splunk"
+					],
+					[
+						"log",
+						"login_splunk"
+					],
+					[
+						"sc",
+						"scope"
+					],
+					[
+						"get",
+						"get_random"
+					],
+					[
+						"ke",
+						"keys"
+					],
+					[
+						"id",
+						"idList"
+					],
+					[
+						"vcen",
+						"vcenter401p"
+					],
+					[
+						"glo",
+						"globalTimeRangeInURL"
+					],
+					[
+						"me",
+						"metric_path"
+					],
+					[
+						"path",
+						"path_base"
+					],
+					[
+						"host",
+						"hostKey"
+					],
+					[
+						"hos",
+						"hostKey"
+					],
+					[
+						"na",
+						"nameAndID"
+					],
+					[
+						"v",
+						"vcenterhost"
+					],
+					[
+						"lo",
+						"login_window"
+					],
+					[
+						"au",
+						"authenticationFailed"
+					],
+					[
+						"G",
+						"GCH3"
+					],
+					[
+						"gra",
+						"graphite_in_use"
+					],
+					[
+						"vali",
+						"validate_detail"
+					],
+					[
+						"er",
+						"error_type"
+					],
+					[
+						"va",
+						"validate_html"
+					],
+					[
+						"pat",
+						"path_removed"
+					],
+					[
+						"ma",
+						"matchObj"
+					],
+					[
+						"cre",
+						"create_window"
+					],
+					[
+						"fa",
+						"failure"
+					],
+					[
+						"boardC",
+						"boardContextName"
+					],
+					[
+						"boardConte",
+						"boardContextName"
+					],
+					[
+						"aj",
+						"Ajax"
+					],
+					[
+						"eval",
+						"eval_context"
+					],
+					[
+						"boardCo",
+						"boardContextName"
+					],
+					[
+						"ta",
+						"target"
+					],
+					[
+						"wid",
+						"widget_type"
+					],
+					[
+						"tar",
+						"target"
+					],
+					[
+						"wi",
+						"widget_type"
+					],
+					[
+						"w",
+						"widgets"
+					],
+					[
+						"sho",
+						"show_results"
+					],
+					[
+						"val",
+						"val_timeout"
+					],
+					[
+						"jq",
+						"jqXHR"
+					],
+					[
+						"url",
+						"urlobj"
+					],
+					[
+						"par",
+						"paramObj"
+					],
+					[
+						"j",
+						"jdata"
+					],
+					[
+						"aiml",
+						"aimlv2"
+					],
+					[
+						"aim",
+						"aimllist"
+					],
+					[
+						"patt",
+						"PatternMgr"
+					],
+					[
+						"_",
+						"_brain"
+					],
+					[
+						"K",
+						"KeyErr"
+					],
+					[
+						"send",
+						"send_dict_result"
+					],
+					[
+						"CO",
+						"COMMANDS"
+					],
+					[
+						"clo",
+						"close_connection"
+					],
+					[
+						"my",
+						"my_metric_store"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"interval_",
+						"interval_manager"
+					],
+					[
+						"UR",
+						"URL_QUERY_PARAMS"
+					],
+					[
+						"si",
+						"since_last_update"
+					],
+					[
+						"task",
+						"taskRunTime"
+					],
+					[
+						"tas",
+						"tasks"
+					],
+					[
+						"v1",
+						"v1_api"
+					],
+					[
+						"rows",
+						"ROWS"
+					],
+					[
+						"en",
+						"encode"
+					],
+					[
+						"du",
+						"dump_json"
+					],
+					[
+						"sa",
+						"startswith"
+					],
+					[
+						"C",
+						"CURRENT_IN_HTML"
+					],
+					[
+						"he",
+						"head_list"
+					],
+					[
+						"H",
+						"HtmlData"
+					],
+					[
+						"T",
+						"TABLE_FOUND"
+					],
+					[
+						"cur",
+						"current_country"
+					],
+					[
+						"fou",
+						"foundtable"
+					],
+					[
+						"load",
+						"load_data"
+					],
+					[
+						"maxa",
+						"maxa"
+					],
+					[
+						"max",
+						"maxkey"
+					],
+					[
+						"r",
+						"reg"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/hwang0/Documents/workspace/leetcode/test.py",
+					"settings":
+					{
+						"buffer_size": 243,
+						"line_ending": "Unix",
+						"name": "# Definition for singly-linked list."
+					}
+				},
+				{
+					"file": "/home/hwang0/Desktop/test.py",
+					"settings":
+					{
+						"buffer_size": 178,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/hwang0/co/esm_recon/lib/recon/agent/plugins/javastandalone.py",
+					"settings":
+					{
+						"buffer_size": 31399,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: s",
+						"Package Control: Discover Packages"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 444.0,
+				"history":
+				[
+					"print a",
+					"a=1",
+					"ls",
+					"print \"a\"",
+					"print 1",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"LANG=en_US.UTF-8 sublime_text",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/hwang0/Documents/workspace/leetcode"
+			],
+			"file_history":
+			[
+				"/home/hwang0/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/hwang0/Desktop/test.py",
+				"/tmp/sublime-sftp-browse-1425689848/config/opt/recon/lib/recon/agent/plugins/config.jboss",
+				"/tmp/sublime-sftp-browse-1425678885/config/opt/recon/lib/recon/agent/plugins/testjboss.py",
+				"/home/hwang0/.config/sublime-text-3/Packages/User/sftp_servers/config",
+				"/home/hwang0/Documents/workspace/leetcode/test.py",
+				"/home/hwang0/.config/sublime-text-3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
+				"/home/hwang0/.config/sublime-text-3/Packages/Python Flake8 Lint/Default (Linux).sublime-keymap",
+				"/home/hwang0/.config/sublime-text-3/Packages/User/Flake8Lint.sublime-settings",
+				"/home/hwang0/co/esm_recon/bin/send-recon-event",
+				"/home/hwang0/.config/sublime-text-3/Packages/User/SublimeSimpleSync.sublime-settings",
+				"/home/hwang0/co/recon.sublime-project",
+				"/home/hwang0/.config/sublime-text-3/Packages/Jedi - Python autocompletion/Default.sublime-mousemap",
+				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/jmx.py",
+				"/home/hwang0/.config/sublime-text-3/Packages/User/sublime_jedi.sublime-settings",
+				"/home/hwang0/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/hwang0/.config/sublime-text-3/Packages/User/sftp_servers/test",
+				"/home/hwang0/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/hwang0/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/hwang0/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
+				"/home/hwang0/.config/sublime-text-3/Packages/Trimmer/Default (Linux).sublime-keymap",
+				"/home/hwang0/co/esm_recon/init-script.sh",
+				"/home/hwang0/co/esm_recon/corp-sys/lib/python2.6/config/install-sh",
+				"/home/hwang0/.config/sublime-text-3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+				"/home/hwang0/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/minDistance.py",
+				"/home/hwang0/co/esm_recon/.bash_aliases",
+				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/minWindow.py",
+				"/home/hwang0/.config/sublime-text-3/Packages/Pylinter/Default (Linux).sublime-keymap",
+				"/home/hwang0/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
+				"/home/hwang0/.config/sublime-text-3/Packages/User/SFTP.sublime-settings",
+				"/home/hwang0/co/esm_recon/jmxd/lib/jmx/jboss.py",
+				"/home/hwang0/.config/sublime-text-3/Packages/SFTP/SFTP.sublime-settings",
+				"/home/hwang0/co/esm_recon/lib/recon/agent/commonMbeanMetrics.py",
+				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/javastandalone.py",
+				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/zetalogs.py",
+				"/home/hwang0/co/plugins/zetalogs.py",
+				"/home/hwang0/co/plugins/genericPlugin.py",
+				"/home/hwang0/co/plugins/jboss.py",
+				"/home/hwang0/co/git/graphite-web/webapp/graphite/urls.py",
+				"/home/hwang0/co/git/graphite-web/webapp/graphite/settings.py",
+				"/home/hwang0/co/esm_recon/lib/recon/agent/plugins/solr.py",
+				"/home/hwang0/co/newrecon/esm_recon/lib/recon/common/counterStats.py",
+				"/tmp/test.py",
+				"/tmp/hello.py",
+				"/home/hwang0/co/plugins/solr.py",
+				"/home/hwang0/co/plugins/javastandalone.py",
+				"/home/hwang0/Documents/workspace/leetcode/sudoku.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/urls.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/users/authBackend.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/tickets/jiraclient.py",
+				"/home/hwang0/Documents/workspace/leetcode/gas_station.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/views.py",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/graphGallery-dyn.js",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/settings.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/validator.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/splunkSearch.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/tests/tests.py",
+				"/home/hwang0/Documents/workspace/leetcode/singlenumber2.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/tests/splunkTests.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/alarms/opennms.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/local_settings.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/tests/models.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/tests2/__init__.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/tests.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/users/urls.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/urls.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/test.py",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/graphGallery-dyn-jqChart.js",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/graphGallery.js",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/graphGallery-manage.js",
+				"/home/hwang0/Desktop/Main.java",
+				"/home/hwang0/.config/sublime-text-3/Packages/Javatar/Default (Linux).sublime-keymap",
+				"/home/hwang0/.config/sublime-text-3/Packages/Javatar/Javatar.sublime-settings",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/graphGallery-state.js",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/users/models.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/views.py",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/context.js",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/util.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/splunk_search.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/templates/test.html",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/demo/demo.js",
+				"/home/hwang0/.config/sublime-text-3/Packages/Shell Turtlestein/Shell Turtlestein.sublime-settings",
+				"/home/hwang0/.config/sublime-text-3/Packages/Shell Command/Default.sublime-keymap",
+				"/home/hwang0/.config/sublime-text-3/Packages/Shell Command/ShellCommand.sublime-settings",
+				"/home/hwang0/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/hwang0/.config/sublime-text-3/Packages/User/Pylinter.sublime-settings",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/urls.py",
+				"/home/hwang0/.config/sublime-text-3/Packages/User/JsFormat.sublime-settings",
+				"/home/hwang0/.config/sublime-text-3/Packages/JsFormat/JsFormat.sublime-settings",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/templates/viewBoard.html",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/bower_components/angular-latest/angularFiles.js",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/bower_components/angular-latest/jenkins_build.sh",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/bower_components/angular-latest/src/AngularPublic.js",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/bower_components/angular-latest/src/Angular.js",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/templatetags/__init__.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/demos/templatetags/verbatim.py",
+				"/home/hwang0/co/plugins/nfsstats.py",
+				"/home/hwang0/splunk/bower_components/splunk-sdk-javascript/examples/browser/helloworld/index.html",
+				"/home/hwang0/splunk/bower_components/jquery/src/jquery.js",
+				"/home/hwang0/splunk/bower_components/splunk-sdk-javascript/examples/browser/index.html",
+				"/home/hwang0/splunk/test.html",
+				"/home/hwang0/Documents/workspace/vm/log/vmware-monitoring.log",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/alarmConsole.js",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/base.js",
+				"/home/hwang0/co/graphite-extjs4/webapp/graphite/render/functions.py",
+				"/home/hwang0/co/git/hwang3419.github.io/test.js",
+				"/home/hwang0/co/git/hwang3419.github.io/bower_components/d3/d3.js",
+				"/home/hwang0/Documents/workspace/d3/index.html",
+				"/home/hwang0/Desktop/curlmon.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/users/views.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/users/templates/login.html",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/widgets/views.py",
+				"/home/hwang0/Documents/workspace/sendEmail.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/widgets/urls.py",
+				"/home/hwang0/co/dash-extjs4/compiler_all.sh",
+				"/home/hwang0/Documents/workspace/vmware_collect.py",
+				"/home/hwang0/Documents/workspace/vm_collect_pysphere.py",
+				"/home/hwang0/Documents/workspace/vhost_collect.py",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/graphViewer.js",
+				"/home/hwang0/co/dash-extjs4/webapp/manage.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/boards/models.py",
+				"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets/blinkenLights.js",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/alarms/views.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/templates/base/base.html",
+				"/home/hwang0/Desktop/test.js",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/contexts/models.py",
+				"/home/hwang0/co/dash-extjs4/webapp/dash/action/urls.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/hwang0/co/esm_recon",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/js",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/bower_components/angular-latest",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/utils",
+					"/home/hwang0/co/dash-extjs4/webapp/dash/boards/templates",
+					"/home/hwang0/co/dash-extjs4/webapp/dash",
+					"/home/hwang0/co/dash-extjs4/webapp/dash/boards",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/js",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/js",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content",
+					"/home/hwang0/co/dash-extjs4/webapp",
+					"/home/hwang0/co/git/test/graphite-web/webapp/graphite/templates",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content",
+					"/home/hwang0/co/dash-extjs4/webapp",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets",
+					"/home/hwang0/co/jmxd",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/js",
+					"/home/hwang0/co/dash-extjs4/webapp/static_content/js/widgets"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"collectGenericBeans",
+					"json",
+					"collectSolrSearch1Beans",
+					"solr",
+					"SOLRX_SERVER",
+					"solr",
+					"collectInstanceMetrics",
+					"startProcesses",
+					"collectInstanceMetrics",
+					"collectGenericBeans",
+					"get_jboss_mbean",
+					"1",
+					"env",
+					"sanitized",
+					"get_mbean_attrs",
+					"mbeanAttrs",
+					"traceback",
+					"getMBeanInfo",
+					"jmx_call",
+					"attributes",
+					"solr",
+					"collectGenericBeans",
+					"genericm",
+					"collectSolrSearch1Beans",
+					"parseXmlFile",
+					"jmxd",
+					"jboss8",
+					"jboss89",
+					"getAttribute('port",
+					"getAttribute",
+					"jmxd7",
+					"jmxd8",
+					"jboss7",
+					"parseJBoss8OffsetXml",
+					"custom",
+					"linesRead",
+					"linesReadPerSec",
+					"pluginStats",
+					"linesRead",
+					"processLogLine",
+					"lo",
+					"95",
+					"search",
+					"self",
+					"console",
+					"targets_field",
+					"graphsStore",
+					"join",
+					"graphsstore",
+					"state",
+					"widget_type",
+					"INSTALLED_APPS",
+					"PASSWORD_HASHERS",
+					"alarms",
+					"edit",
+					"replace",
+					"genParamObj",
+					"record",
+					"asdf",
+					"console.log",
+					"replace",
+					"100",
+					"edit",
+					"change",
+					"updateGraphs",
+					"refresh",
+					"deljsc",
+					"delJSChart",
+					"reload",
+					"genParamObj",
+					"loadJSChart",
+					"loadjsdata",
+					"mgrApply",
+					"e",
+					"mgrApply",
+					"save",
+					"GraphFields",
+					"graphsstore",
+					"genparamobj",
+					"graphsStore",
+					"GraphFields",
+					"editor",
+					"editContext",
+					"graphsStore",
+					"APIMethods",
+					"issplunk",
+					"splunk",
+					"genUrlFromParamObj",
+					"getJson",
+					"addData",
+					"gflag",
+					"indent",
+					"           \n",
+					"()\n",
+					"angular.min",
+					"render",
+					"name",
+					"discovery",
+					"loadstate",
+					"globalTimeRange",
+					"globalTimeRangeWin",
+					"globalTimeRange",
+					"url",
+					"GraphiteTimerange",
+					"setRelativeTimerange",
+					"getTimerange",
+					"graphiteTimerange",
+					"date2GDate",
+					"absFrom",
+					"globaltimera",
+					"GraphiteTimerange",
+					"-web",
+					"vsp",
+					"vsp_cache",
+					"SOLR_CLIENT_RE",
+					"HDS",
+					"d3_documentElement",
+					"querySelector",
+					"d3_select",
+					"select(",
+					"select",
+					"RequestContext",
+					"render_to_response",
+					" ><",
+					"parse_state",
+					"connected",
+					"Cookie",
+					"getOptionsArgs"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1927,7 +1941,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -1936,15 +1950,76 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1377,
+								"buffer_size": 243,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										216,
-										216
+										243,
+										243
+									]
+								],
+								"settings":
+								{
+									"auto_name": "# Definition for singly-linked list.",
+									"incomplete_sync": null,
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/hwang0/Desktop/test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 178,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										171,
+										171
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/hwang0/co/esm_recon/lib/recon/agent/plugins/javastandalone.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 31399,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										730,
+										730
 									]
 								],
 								"settings":
@@ -1953,14 +2028,14 @@
 									"remote_loading": false,
 									"synced": false,
 									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 4,
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2009,7 +2084,7 @@
 			{
 				"height": 100.0
 			},
-			"position": "0,1,0,0,0,1464,49,2399,1080,3286,1080",
+			"position": "0,0,0,0,0,1590,114,2763,1054,3286,1080",
 			"project": "",
 			"replace":
 			{

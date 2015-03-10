@@ -6,7 +6,7 @@
 			"selector": "source.python"
 		}
 	],
-	"color_scheme": "Packages/User/base16-ocean.dark (Flake8Lint).tmTheme",
+	"color_scheme": "Packages/User/Monokai (Flake8Lint).tmTheme",
 	"env":
 	{
 		"PYTHONPATH": "/home/hwang0/co/esm_recon/lib"
@@ -17,5 +17,5 @@
 		"Vintage"
 	],
 	"tab_size": 4,
-	"translate_tabs_to_spaces": true
+	"theme": "Afterglow-green.sublime-theme"
 }
